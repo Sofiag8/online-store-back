@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project serves as a practical application of:
+This project serves as a practical application :
 
 - Design and consumption of REST APIs.
 - Java programming language.
